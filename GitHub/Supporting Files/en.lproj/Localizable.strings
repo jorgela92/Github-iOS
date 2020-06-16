@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  GitHub
+
+  Created by Jorge Lapeña Antón on 15/06/2020.
+  Copyright © 2020 Jorge Lapeña Antón. All rights reserved.
+*/
+"ok" = "Accept";
+"not_elements" = "No elements";
+"not_elements_search" = "No items in the search";
+"repositories" = "Repositories";
+"detail" = "Detail";
+"search" = "Search";
+"language" = "Language";
+"license" = "License";
+"created_at" = "Created at";
+"updated_at" = "Updated at";
+"pushed_at" = "Pushed at";
+"open_issues_count" = "Open issues count";
+"forks_count" = "Forks count";
+"forks" = "Forks";
+"open_issues" = "Open issues";
+"watchers" = "Watchers";
+"network_count" = "Network count";
+"subscribers_count" = "Subscribers count";
+"html_url" = "HTML URL";
+"clone_url" = "Clone URL";
+"homepage" = "Homepage";
